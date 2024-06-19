@@ -1,2 +1,4 @@
-# ola mundo
- primeiro repositorio que presta 
+# Olá, mundo
+ primeiro repositorio do curso e git e github
+
+ repositório criado durante aula gravada
